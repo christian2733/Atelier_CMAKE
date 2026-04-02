@@ -28,7 +28,7 @@ Notion acquise lors de cette séquence :
 Vous avez appris lors de cette séquence à créer des Repository pour stocker et travailler avec votre code informatique. Vous pourez par la suite travailler en groupe sur un projet. Vous avez également appris à faire des Forks. C'est à dire, faire des copies de projets déjà existant dans GitHUB que vous pourrez ensuite adapter à vos besoins.
   
 ---------------------------------------------------
-Séquence 2 : Création d'une action GitHub
+Séquence 2 : Création d'une action GitHub-christian
 ---------------------------------------------------
 Objectif : Créer un script pour automatiser vos tests  
 Difficulté : Simple (~20 minutes)
